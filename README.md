@@ -7,6 +7,15 @@ To conduct a comprehensive analysis of an E-commerce company sales, and product 
 
 **Key Insights**: Monthly sales and profit based on various factors, best-selling products and product category, Sales to profit ratio.
 
+## QUESTIONS (KPIs)
+1. Calculate the monthly sales of the store and identify which month had the highest sales and which month had the lowest sales.
+2. Analyze sales based on product categories and determine which category has the lowest sales and which category has the highest sales.
+3. Sales analysis need to be done based on sub categories.
+4. Analyze the monthly profit from sales and determine which month had the highest profit.
+5. Analyze the profit by category and sub-category.
+6. Analyze the sales and profit by customer segment.
+7. Analyze the sales to profit ratio.
+
 ## DATASET USED
 - <a href="https://github.com/Isha4001/E-Commerce_Sales_Analysis/blob/main/Superstore_sample.csv">Dataset</a>
 
