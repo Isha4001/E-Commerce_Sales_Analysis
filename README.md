@@ -15,6 +15,7 @@ To conduct a comprehensive analysis of an E-commerce company sales, and product 
 5. Analyze the profit by category and sub-category.
 6. Analyze the sales and profit by customer segment.
 7. Analyze the sales to profit ratio.
+
 _Since this code uses plotly, please open the jupyter notebook in nbviewer._
 
 ## DATASET USED
